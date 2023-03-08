@@ -4,6 +4,8 @@ public class Dog {
     private double age;
     private int happiness, cleaniness, fullness, intelligence, health, price, food_amount;
     private boolean die = false;
+
+    
     
     
  //getter-setter

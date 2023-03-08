@@ -1,7 +1,12 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Player {
     private Dog pet;
     private String username;
     private int food_stock, money;
+
+    
     
     //constructor
     public Player(){
